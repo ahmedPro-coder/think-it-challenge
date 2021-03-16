@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  SmartyHome
+
+  Created by Macbook Pro 2017 on 15/03/2021.
+  
+*/
+
+/* App title */
+"app_title" = "Smarty";
+
+/* Welcome title */
+"welcome_title" = "Welcome Home";
+
+/* Name placeholder */
+"name_placeholder" = "Your Name";
+
+/* Welcome user */
+"welcom_msg" = "Welcome, Ahmed!";
+
+/* ok button */
+"ok_button_title" = "OK";
+
+/* submit button title */
+"submit_button_title" = "CONTINUE";
+
+/* welcome home title */
+"welcome_home_title" = "Welcome, %@!";
+
+/* failed connection */
+"failed_connection" = "Fail";
+
+/* empty field message */
+"empty_field_message" = "Please enter your name";
+

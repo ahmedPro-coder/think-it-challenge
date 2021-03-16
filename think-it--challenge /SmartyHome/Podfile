@@ -1,0 +1,38 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+use_frameworks!
+def common_pods
+    
+  pod 'RxSwift', '~> 5'
+	pod 'RxCocoa', '~> 5'
+	pod "PromiseKit", '~> 6.8'
+
+end
+
+target 'SmartyHome' do
+
+  # Pods for SmartyHome
+
+end
+
+target 'SmartyHomeIOS' do
+	common_pods
+
+  # Pods for SmartyHomeIOS
+
+end
+
+target 'SmartyHomeKit' do
+	common_pods
+
+  # Pods for SmartyHomeKit
+
+end
+
+target 'SmartyHomeUIKit' do
+	common_pods
+
+  # Pods for SmartyHomeUIKit
+
+end
