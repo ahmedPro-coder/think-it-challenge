@@ -19,6 +19,8 @@
 		040DC32D260002340095FED7 /* Localizable.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 040DC31A25FFFAE60095FED7 /* Localizable.stringsdict */; };
 		040DC331260002350095FED7 /* Localizable.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 040DC31A25FFFAE60095FED7 /* Localizable.stringsdict */; };
 		040DC3352600024D0095FED7 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 040DC31125FFF5D80095FED7 /* Localizable.strings */; };
+		040DC35226013CC10095FED7 /* SmartyHomeKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04BF051D25FAB49900A9C4FF /* SmartyHomeKit.framework */; };
+		040DC35326013CC10095FED7 /* SmartyHomeUIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04BF054325FAB4BA00A9C4FF /* SmartyHomeUIKit.framework */; };
 		04AC695825FE53930062BDF3 /* MainViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AC695725FE53930062BDF3 /* MainViewModel.swift */; };
 		04AC695E25FE54760062BDF3 /* WelcomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AC695D25FE54760062BDF3 /* WelcomeViewModel.swift */; };
 		04AC696725FE549E0062BDF3 /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AC696625FE549E0062BDF3 /* HomeViewModel.swift */; };
@@ -200,6 +202,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				040DC35226013CC10095FED7 /* SmartyHomeKit.framework in Frameworks */,
+				040DC35326013CC10095FED7 /* SmartyHomeUIKit.framework in Frameworks */,
 				38E4CFC4550C9CF7796C268C /* Pods_SmartyHomeIOS.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
